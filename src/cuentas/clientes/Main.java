@@ -1,4 +1,4 @@
-package es.maestre;
+package cuentas.clientes;
 
 public class Main {
 
